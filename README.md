@@ -1,9 +1,7 @@
 # Computer Science (fast)
 
 Inspired by [ossu/computer-science](https://github.com/ossu/computer-science) and [Teach Yourself Computer Science](https://teachyourselfcs.com/).
-The list is intended as a refresher for professionals or as a primer for newcomers, covering most computer science fundamentals and hot topics in the industry with easy, practical books providing a good overview of each area.
-
-Please notice, these books aren't necessarily free, thorough or the best choice for the topics and require you to already have an understanding of programming.
+The list is intended as a refresher for professionals or as a primer for newcomers, covering most computer science fundamentals and hot topics in the industry with practical books providing a good overview of each area.
 
 # Books
 
